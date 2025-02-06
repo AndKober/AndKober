@@ -33,6 +33,8 @@ Looking for a job in Tallinn
 
 🌟 Connect 🌟
 
+[LinkedIn](https://www.linkedin.com/in/andrei-volkov-06b754296/?locale=en_US)
+
 <!---
 AndKober/AndKober is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
