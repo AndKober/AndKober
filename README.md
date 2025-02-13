@@ -9,12 +9,16 @@ I focus on **Machine Learning, Data Analysis, and Feature Engineering**, and I a
 
 ## **🔧 Tech Stack & Skills**  
 - **Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Data Science & ML:** Feature Engineering, Data Cleaning, Supervised & Unsupervised Learning   
-- **Other:** Git, Jupyter Notebook, Kaggle  
+- **Data Science & ML:** Feature Engineering, Data Cleaning, Supervised & Unsupervised Learning  
+- **Other:** Git, Jupyter Notebook, Kaggle, PostgreSQL  
 
 ---
 
 ## **📂 Featured Projects**  
+
+### **📊 [SQL Analysis of Job Market Data](https://github.com/AndKober/Project_2)**  
+**Description:** SQL-based analysis of job postings from HeadHunter, identifying hiring trends, salary distributions, and IT job demand.  
+**Skills Used:** PostgreSQL, SQL Queries, Data Analysis, Salary Trend Analysis, Job Market Insights  
 
 ### **🏨 [Hotel Rating Prediction – Kaggle Competition](https://github.com/AndKober/Project_3)**  
 **Description:** Predicting hotel ratings based on customer reviews using feature engineering and sentiment analysis.  
